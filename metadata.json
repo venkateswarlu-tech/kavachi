@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Project Kavach",
+  "description": "A next-generation steganographic defense system that combines AES-256 encryption, compression, and high-fidelity LSB data embedding with real-time PSNR/MSE analysis and AI-driven security auditing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
